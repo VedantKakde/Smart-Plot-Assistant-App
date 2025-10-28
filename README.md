@@ -1,6 +1,3 @@
-Here's a comprehensive README.md file for your "SMART PLOT ASSISTANT APPLICATION" project, perfect for your GitHub repository.
-
------
 
 # SMART PLOT ASSISTANT
 
